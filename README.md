@@ -1,4 +1,4 @@
-# STOPWATCH-APPLICATION PRODIGY TASK
+# PRODIGY_WD1_01
 Commit 2: "Added initial stopwatch layout with HTML and CSS."
 Commit 3: "Implemented start, stop, and reset functionality using JavaScript."
 Commit 4: "Added responsive design and improved UI."
